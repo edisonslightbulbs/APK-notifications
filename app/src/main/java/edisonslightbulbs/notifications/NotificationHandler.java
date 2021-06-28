@@ -18,7 +18,7 @@ public class NotificationHandler extends NotificationListenerService {
     private static final class ApplicationPackageNames {
         public static final String FACEBOOK_PACK_NAME = "com.facebook.katana";
         public static final String FACEBOOK_MESSENGER_PACK_NAME = "com.facebook.orca";
-        public static final String WHATSAPP_PACK_NAME = "com.whatsapp";
+        public static final String WHATSAPP_PACK_NAME = "com.google.android.talk";
         public static final String INSTAGRAM_PACK_NAME = "com.instagram.android";
     }
 
